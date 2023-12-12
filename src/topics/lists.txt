@@ -1,0 +1,3 @@
+box-sizing:border-box means if the width of the content is 500px it will ensure that every thing inside 
+has width includes in that 500px. like if their is padding margin around the border the content size will be shrink and 
+including all the padding and margine the total width of the content will be 500px
